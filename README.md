@@ -1,10 +1,12 @@
 # smoothscroll
+
 A simple front end feature that can be used in multiple situations.
 <br>
 <br>
 ---
 
 #### DISCLAIMER
+
 The User Interface has been mainly focused here rather than the script.
 A detailed explanation of how to use the script is available <a href="https://github.com/cferdinandi/smooth-scroll">here</a>
 <br>
@@ -18,6 +20,6 @@ Quoting Chris, a CSS-only method for smooth scrolling has emerged, and now has f
 <br>
 
 ---
-Found this helpful?
+#### Found this helpful?
 <br>
-<a href="https://www.buymeacoffee.com/aakarsh" target="_blank"><img align="left" alt="Buy me coffee" width="150px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
+<a href="https://www.buymeacoffee.com/aakarsh" target="_blank"><img align="left" alt="Buy me coffee" width="175px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
