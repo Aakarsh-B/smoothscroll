@@ -2,7 +2,7 @@
 <p>A simple front end feature that can be used in multiple situations.</p>
 <br>
 <br>
----
+<hr>
 
 ### DISCLAIMER
 
@@ -10,7 +10,7 @@
 A detailed explanation of how to use the script is available <a href="https://github.com/cferdinandi/smooth-scroll">here</a></p>
 <br>
 <br>
----
+<hr>
 
 ### credit when credit is due
 The script used was created by <a href="https://github.com/cferdinandi">Chris Ferdinandi</a>.
