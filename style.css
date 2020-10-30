@@ -8,7 +8,6 @@ body {
     color: #fff;
     line-height: 1.6;
     height: 100vh;
-    /* overflow: hidden; */
 }
 
 a {
@@ -70,29 +69,46 @@ section p{
     font-size: 1.5rem;
 }
 
-section#about {
-    background: url('1.jpg') no-repeat center center/cover;;
-  }
+section#a {
+    background: url('images/1.jpg') no-repeat center center/cover;;
+}
 
-  section#home {
-    background: url('2.jpg') no-repeat center center/cover;;
-  }
+section#b {
+    background: url('images/2.jpg') no-repeat center center/cover;;
+}
 
-  section#service {
-    background: url('3.jpg') no-repeat center center/cover;;
-  }
+section#c {
+    background: url('images/3.jpg') no-repeat center center/cover;;
+}
 
-  section#contact {
-    background: url('4.jpg') no-repeat center center/cover;;
-  }
+section#d {
+    background: url('images/4.jpg') no-repeat center center/cover;;
+}
 
 .footer{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 0,500;
+    font-weight: 0,200;
     position: fixed;
     bottom: 0;
     z-index: 1;
     width: 100%;
     height: 60px;
     text-align: center;
+}
+
+.button {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 0,500;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    background-color: rgb(59, 103, 224);
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: rgb(40, 80, 189);
 }
