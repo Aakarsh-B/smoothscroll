@@ -1,6 +1,7 @@
 # smoothscroll
-<p>A simple front end feature that can be used in multiple situations.</p>
+<p>A simple front end feature that can be used in multiple situations. I'm still learning front end development and I wanted to try out all the cool features one by one. I fount the smooth scroll feature to be fascinating. The plugin I have used here is apparently outdated and there are better ways to go around the same function. However, I wanted to create something that looked good with what I had. So I ended up with this.</p>
 <p><a href="https://aakarsh-b.github.io/smoothscroll/">Click here</a> to preview the script in action!</p>
+<p>This feature has many applications as it can be used in any homescreen, navigating to various sections of the same screen. This is a pretty basic front end feature and can be done without the use of this plugin now. Anyways, I learnt something new today yay :P</p>
 <br>
 <br>
 
