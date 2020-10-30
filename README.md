@@ -19,4 +19,4 @@ Quoting Chris, a CSS-only method for smooth scrolling has emerged, and now has f
 ---
 Found this helpful?
 <br>
-<a href="https://www.buymeacoffee.com/aakarsh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style=" width= "30px"></a>
+<a href="https://www.buymeacoffee.com/aakarsh" target="_blank"><img align="left" alt="Buy me coffee" width="30px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
